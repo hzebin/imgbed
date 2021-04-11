@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### hzebin ###
+!**/src/main/resources/application-dev.yml
+!**/src/main/resources/application-pro.yml

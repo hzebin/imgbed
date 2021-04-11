@@ -1,0 +1,11 @@
+# dev | test | pro
+spring:
+  profiles:
+    active: dev
+
+server:
+  port: 9800
+
+upyun:
+  api: https://api.upyun.com/
+
